@@ -4,3 +4,6 @@ Technique de régréssion linéaire $\hat{\beta}_{\text{MCG}} = (X^\top \Sigma^{
 
 ## Noyau pour le notebook
 Le fichier environment.yml contient le noyau pour les notesbooks
+
+# Professeur
+https://github.com/necludov
